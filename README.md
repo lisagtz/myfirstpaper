@@ -11,7 +11,9 @@ Expand on the abstract
 ### What we have changed
 - item 1
 - item 2
-- item3
+- item 3
+- item 4
+- item 5
 
 ## Conclusions
 - conclusion 1
